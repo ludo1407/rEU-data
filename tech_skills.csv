@@ -1,0 +1,87 @@
+technology,skill_group,skill_label,description,text_for_embedding,role_code,role_label
+DPP Model,Strategic,Strategic integration,,Strategic integration,1.0,Manager
+DPP Model,Strategic,sustainability compliance,,sustainability compliance,1.0,Manager
+DPP Model,Strategic,Process optimization,ability to apply DPP data to improve assembly and manufacturing,Process optimization. ability to apply DPP data to improve assembly and manufacturing,2.0,Supervisor
+DPP Model,Strategic,simulation usage,understand how DPP data impacts production scenarios,simulation usage. understand how DPP data impacts production scenarios,2.0,Supervisor
+DPP Model,Strategic,Problem-solving,identify issues with products and amend them using innovative digital tools,Problem-solving. identify issues with products and amend them using innovative digital tools,2.0,Supervisor
+DPP Model,Strategic,Problem-solving,identify issues with products and amend them using innovative digital tools,Problem-solving. identify issues with products and amend them using innovative digital tools,3.0,Operator
+DPP Model,Data,"Organizing and maintaining the specific data subsets, DPP data workflows",,"Organizing and maintaining the specific data subsets, DPP data workflows",3.0,Operator
+DPP Model,Data,Information and Data Literacy skills,browse and filter information; interpret product-related data within the specific context of the supply chain,Information and Data Literacy skills. browse and filter information; interpret product-related data within the specific context of the supply chain,2.0,Supervisor
+DPP Model,Data,Information and Data Literacy skills,browse and filter information; interpret product-related data within the specific context of the supply chain,Information and Data Literacy skills. browse and filter information; interpret product-related data within the specific context of the supply chain,3.0,Operator
+DPP Model,Data,Digital Content Creation skills,insert and organize repair/remanufacturing records and data quality to ensure data accuracy,Digital Content Creation skills. insert and organize repair/remanufacturing records and data quality to ensure data accuracy,2.0,Supervisor
+DPP Model,Data,Digital Content Creation skills,insert and organize repair/remanufacturing records and data quality to ensure data accuracy,Digital Content Creation skills. insert and organize repair/remanufacturing records and data quality to ensure data accuracy,3.0,Operator
+DPP Model,Technical,Interoperability and data exchange awareness,understanding how the DPP is linked to other systems,Interoperability and data exchange awareness. understanding how the DPP is linked to other systems,2.0,Supervisor
+DPP Model,Technical,Interoperability and data exchange awareness,understanding how the DPP is linked to other systems,Interoperability and data exchange awareness. understanding how the DPP is linked to other systems,3.0,Operator
+DPP Model,Technical,Cybersecurity Awareness,,Cybersecurity Awareness,,Unspecified
+DPP Model,Technical,"System administration, data security, operational continuity",,"System administration, data security, operational continuity",1.0,Manager
+DPP Model,Technical,"System administration, data security, operational continuity",,"System administration, data security, operational continuity",2.0,Supervisor
+DPP Model,Technical,"System administration, data security, operational continuity",,"System administration, data security, operational continuity",3.0,Operator
+Hybrid disassembly,,Collaboration and knowledge about the cobot capabilities and parameters,"knowledge about time needed, tools, etc","Collaboration and knowledge about the cobot capabilities and parameters. knowledge about time needed, tools, etc",3.0,Operator
+Hybrid disassembly,,Task Programming,both in terms of trajectory and various actions,Task Programming. both in terms of trajectory and various actions,2.0,Supervisor
+Hybrid disassembly,,Task Programming,both in terms of trajectory and various actions,Task Programming. both in terms of trajectory and various actions,3.0,Operator
+Hybrid disassembly,,Observe the disassembly process and understand the sequence the first time it is carried out,,Observe the disassembly process and understand the sequence the first time it is carried out,3.0,Operator
+Hybrid disassembly,,Knowledge of emergency safety routines,,Knowledge of emergency safety routines,2.0,Supervisor
+Hybrid disassembly,,Knowledge of emergency safety routines,,Knowledge of emergency safety routines,3.0,Operator
+Hybrid disassembly,,Spatial Awareness of the cobot,,Spatial Awareness of the cobot,3.0,Operator
+Hybrid disassembly,,End effector control,,End effector control,3.0,Operator
+Hybrid disassembly,Technical and diagnostic,Which disassembled components to recycle/scrap/collect,,Which disassembled components to recycle/scrap/collect,3.0,Operator
+Hybrid disassembly,Technical and diagnostic,"Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",,"Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",3.0,Operator
+Hybrid disassembly,Technical and diagnostic,Interaction with the inline database system to write and read component state data.,,Interaction with the inline database system to write and read component state data.,3.0,Operator
+Hybrid disassembly,Technical and diagnostic,Check the progress of the plan (disassembly point),,Check the progress of the plan (disassembly point),3.0,Operator
+Cold spray,Procedural and Psychomotor,Cognitive and spatial reasoning,"Macro-scale spatial reasoning;
+Perception-decision coupling","Cognitive and spatial reasoning. Macro-scale spatial reasoning;
+Perception-decision coupling",3.0,Operator
+Cold spray,Procedural and Psychomotor,Psychomotor and physical capabilities,"Bimanual coordination;
+Tool handling and manipulation;
+Force regulation;
+Tolerance control","Psychomotor and physical capabilities. Bimanual coordination;
+Tool handling and manipulation;
+Force regulation;
+Tolerance control",3.0,Operator
+Cold spray,Procedural and Psychomotor,Procedural precision and mental focus,"Sequential decision;
+Error detection;
+Cognitive load management","Procedural precision and mental focus. Sequential decision;
+Error detection;
+Cognitive load management",3.0,Operator
+Cold spray,Operational (Technical knowledge),Basic material science knowledge,"identify types of damage (corrosion/wear/cracks) and select appropriate pre-treatment (grinding/sandblasting) and post-treatment methods (machining, polishing)","Basic material science knowledge. identify types of damage (corrosion/wear/cracks) and select appropriate pre-treatment (grinding/sandblasting) and post-treatment methods (machining, polishing)",3.0,Operator
+Cold spray,Operational (Technical knowledge),assess surface condition,"roughness, cleanliness to understand the level of preparation needed","assess surface condition. roughness, cleanliness to understand the level of preparation needed",3.0,Operator
+Cold spray,Operational (Technical knowledge),Cold spray parameter awareness,Knowledge of the impact,Cold spray parameter awareness. Knowledge of the impact,3.0,Operator
+Cold spray,Operational (Technical knowledge),Basic robotic programming,Ability to adjust pre-set programs for part-specific modifications,Basic robotic programming. Ability to adjust pre-set programs for part-specific modifications,3.0,Operator
+Cold spray,Operational (Technical knowledge),Quality control basics,"Ability to perform simple tool-based or visual inspection (NDT) checking for incomplete coverage, delamination etc","Quality control basics. Ability to perform simple tool-based or visual inspection (NDT) checking for incomplete coverage, delamination etc",3.0,Operator
+Cold spray,Operational (Safety and Compliance),PPE and Hazard awareness,"Knowledge of cold spray related safety protocols (ventilation, protective gear)","PPE and Hazard awareness. Knowledge of cold spray related safety protocols (ventilation, protective gear)",2.0,Supervisor
+Cold spray,Operational (Safety and Compliance),PPE and Hazard awareness,"Knowledge of cold spray related safety protocols (ventilation, protective gear)","PPE and Hazard awareness. Knowledge of cold spray related safety protocols (ventilation, protective gear)",3.0,Operator
+Cold spray,Operational (Safety and Compliance),Waste management,"Ability to handle products of CS process (eg. overspray, abrasive media) responsibly","Waste management. Ability to handle products of CS process (eg. overspray, abrasive media) responsibly",3.0,Operator
+Function-oriented assembly,Strategic,Strategic decision-making,"Choose between different reassembly goals;
+Adjust system parameters;
+Interpret the results","Strategic decision-making. Choose between different reassembly goals;
+Adjust system parameters;
+Interpret the results",3.0,Operator
+Function-oriented assembly,Strategic,Optimization and scheduling,solving complex scheduling problems,Optimization and scheduling. solving complex scheduling problems,2.0,Supervisor
+Function-oriented assembly,Strategic,Optimization and scheduling,solving complex scheduling problems,Optimization and scheduling. solving complex scheduling problems,3.0,Operator
+Function-oriented assembly,Strategic,think out of the box,navigate changes,think out of the box. navigate changes,2.0,Supervisor
+Function-oriented assembly,Strategic,think out of the box,navigate changes,think out of the box. navigate changes,3.0,Operator
+Function-oriented assembly,Data,"Technological safety, cybersecurity, and privacy",,"Technological safety, cybersecurity, and privacy",1.0,Manager
+Function-oriented assembly,Data,"Technological safety, cybersecurity, and privacy",,"Technological safety, cybersecurity, and privacy",2.0,Supervisor
+Function-oriented assembly,Data,"Technological safety, cybersecurity, and privacy",,"Technological safety, cybersecurity, and privacy",3.0,Operator
+Function-oriented assembly,Data,System integration,"knowledge of connectivity technology and protocols: SCADA, IoT:
+Understand hierarchical control architectures;
+Be able to integrate products, processes, and the system","System integration. knowledge of connectivity technology and protocols: SCADA, IoT:
+Understand hierarchical control architectures;
+Be able to integrate products, processes, and the system",2.0,Supervisor
+Function-oriented assembly,Data,System integration,"knowledge of connectivity technology and protocols: SCADA, IoT:
+Understand hierarchical control architectures;
+Be able to integrate products, processes, and the system","System integration. knowledge of connectivity technology and protocols: SCADA, IoT:
+Understand hierarchical control architectures;
+Be able to integrate products, processes, and the system",3.0,Operator
+Function-oriented assembly,HMI,Ability to operate both virtual and physical assembly environments,,Ability to operate both virtual and physical assembly environments,,Unspecified
+Function-oriented assembly,HMI,Effective human-system communication,"Capacity of navigating the HMI to monitor the process chain in real-time and generate production data;
+The capacity to provide feedback that technology might miss;
+Translate the manual expertise into a structured logic integrated into the digital system.","Effective human-system communication. Capacity of navigating the HMI to monitor the process chain in real-time and generate production data;
+The capacity to provide feedback that technology might miss;
+Translate the manual expertise into a structured logic integrated into the digital system.",3.0,Operator
+Function-oriented assembly,Design,Evaluate and verify parameters and adjust settings,"Domain knowledge at different levels (e.g., Markovian Models at system level and FEM + Control Theory at process level) to enable assessment of monitored parameters to assure acceptable completion of tasks;
+Representing domain knowledge through ontologies","Evaluate and verify parameters and adjust settings. Domain knowledge at different levels (e.g., Markovian Models at system level and FEM + Control Theory at process level) to enable assessment of monitored parameters to assure acceptable completion of tasks;
+Representing domain knowledge through ontologies",2.0,Supervisor
+Function-oriented assembly,Design,Evaluate and verify parameters and adjust settings,"Domain knowledge at different levels (e.g., Markovian Models at system level and FEM + Control Theory at process level) to enable assessment of monitored parameters to assure acceptable completion of tasks;
+Representing domain knowledge through ontologies","Evaluate and verify parameters and adjust settings. Domain knowledge at different levels (e.g., Markovian Models at system level and FEM + Control Theory at process level) to enable assessment of monitored parameters to assure acceptable completion of tasks;
+Representing domain knowledge through ontologies",3.0,Operator
