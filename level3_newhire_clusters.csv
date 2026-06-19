@@ -1,0 +1,156 @@
+pilot,technology,tech_skill,cluster_id,cluster_label,n_skills_in_cluster,silhouette_score,optimal_k
+A,DPP Model,sustainability compliance,0,sustainability compliance,1,0.09,4
+A,DPP Model,Process optimization,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+A,DPP Model,simulation usage,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+A,DPP Model,"Organizing and maintaining the specific data subsets, DPP data workflows",1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+A,DPP Model,Strategic integration,2,Interoperability and data exchange awareness,4,0.09,4
+A,DPP Model,Interoperability and data exchange awareness,2,Interoperability and data exchange awareness,4,0.09,4
+A,DPP Model,Cybersecurity Awareness,2,Interoperability and data exchange awareness,4,0.09,4
+A,DPP Model,"System administration, data security, operational continuity",2,Interoperability and data exchange awareness,4,0.09,4
+A,DPP Model,Problem-solving,3,Digital Content Creation skills,3,0.09,4
+A,DPP Model,Information and Data Literacy skills,3,Digital Content Creation skills,3,0.09,4
+A,DPP Model,Digital Content Creation skills,3,Digital Content Creation skills,3,0.09,4
+A,Function-oriented assembly,"Technological safety, cybersecurity, and privacy",0,System integration,5,0.053,3
+A,Function-oriented assembly,System integration,0,System integration,5,0.053,3
+A,Function-oriented assembly,Ability to operate both virtual and physical assembly environments,0,System integration,5,0.053,3
+A,Function-oriented assembly,Effective human-system communication,0,System integration,5,0.053,3
+A,Function-oriented assembly,Evaluate and verify parameters and adjust settings,0,System integration,5,0.053,3
+A,Function-oriented assembly,Strategic decision-making,1,Strategic decision-making,2,0.053,3
+A,Function-oriented assembly,think out of the box,1,Strategic decision-making,2,0.053,3
+A,Function-oriented assembly,Optimization and scheduling,2,Optimization and scheduling,1,0.053,3
+A,Hybrid disassembly,Observe the disassembly process and understand the sequence the first time it is carried out,0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+A,Hybrid disassembly,Which disassembled components to recycle/scrap/collect,0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+A,Hybrid disassembly,"Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+A,Hybrid disassembly,Check the progress of the plan (disassembly point),0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+A,Hybrid disassembly,Task Programming,1,Knowledge of emergency safety routines,2,0.114,5
+A,Hybrid disassembly,Knowledge of emergency safety routines,1,Knowledge of emergency safety routines,2,0.114,5
+A,Hybrid disassembly,Collaboration and knowledge about the cobot capabilities and parameters,2,Spatial Awareness of the cobot,2,0.114,5
+A,Hybrid disassembly,Spatial Awareness of the cobot,2,Spatial Awareness of the cobot,2,0.114,5
+A,Hybrid disassembly,End effector control,3,End effector control,1,0.114,5
+A,Hybrid disassembly,Interaction with the inline database system to write and read component state data.,4,Interaction with the inline database system to write and read component state data.,1,0.114,5
+B,Cold spray,Basic material science knowledge,0,assess surface condition,4,0.158,4
+B,Cold spray,assess surface condition,0,assess surface condition,4,0.158,4
+B,Cold spray,Quality control basics,0,assess surface condition,4,0.158,4
+B,Cold spray,Waste management,0,assess surface condition,4,0.158,4
+B,Cold spray,Psychomotor and physical capabilities,1,Psychomotor and physical capabilities,2,0.158,4
+B,Cold spray,Basic robotic programming,1,Psychomotor and physical capabilities,2,0.158,4
+B,Cold spray,Cognitive and spatial reasoning,2,Cognitive and spatial reasoning,2,0.158,4
+B,Cold spray,Procedural precision and mental focus,2,Cognitive and spatial reasoning,2,0.158,4
+B,Cold spray,Cold spray parameter awareness,3,Cold spray parameter awareness,2,0.158,4
+B,Cold spray,PPE and Hazard awareness,3,Cold spray parameter awareness,2,0.158,4
+B,DPP Model,sustainability compliance,0,sustainability compliance,1,0.09,4
+B,DPP Model,Process optimization,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+B,DPP Model,simulation usage,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+B,DPP Model,"Organizing and maintaining the specific data subsets, DPP data workflows",1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+B,DPP Model,Strategic integration,2,Interoperability and data exchange awareness,4,0.09,4
+B,DPP Model,Interoperability and data exchange awareness,2,Interoperability and data exchange awareness,4,0.09,4
+B,DPP Model,Cybersecurity Awareness,2,Interoperability and data exchange awareness,4,0.09,4
+B,DPP Model,"System administration, data security, operational continuity",2,Interoperability and data exchange awareness,4,0.09,4
+B,DPP Model,Problem-solving,3,Digital Content Creation skills,3,0.09,4
+B,DPP Model,Information and Data Literacy skills,3,Digital Content Creation skills,3,0.09,4
+B,DPP Model,Digital Content Creation skills,3,Digital Content Creation skills,3,0.09,4
+B,Function-oriented assembly,"Technological safety, cybersecurity, and privacy",0,System integration,5,0.053,3
+B,Function-oriented assembly,System integration,0,System integration,5,0.053,3
+B,Function-oriented assembly,Ability to operate both virtual and physical assembly environments,0,System integration,5,0.053,3
+B,Function-oriented assembly,Effective human-system communication,0,System integration,5,0.053,3
+B,Function-oriented assembly,Evaluate and verify parameters and adjust settings,0,System integration,5,0.053,3
+B,Function-oriented assembly,Strategic decision-making,1,Strategic decision-making,2,0.053,3
+B,Function-oriented assembly,think out of the box,1,Strategic decision-making,2,0.053,3
+B,Function-oriented assembly,Optimization and scheduling,2,Optimization and scheduling,1,0.053,3
+K,Cold spray,Basic material science knowledge,0,assess surface condition,4,0.158,4
+K,Cold spray,assess surface condition,0,assess surface condition,4,0.158,4
+K,Cold spray,Quality control basics,0,assess surface condition,4,0.158,4
+K,Cold spray,Waste management,0,assess surface condition,4,0.158,4
+K,Cold spray,Psychomotor and physical capabilities,1,Psychomotor and physical capabilities,2,0.158,4
+K,Cold spray,Basic robotic programming,1,Psychomotor and physical capabilities,2,0.158,4
+K,Cold spray,Cognitive and spatial reasoning,2,Cognitive and spatial reasoning,2,0.158,4
+K,Cold spray,Procedural precision and mental focus,2,Cognitive and spatial reasoning,2,0.158,4
+K,Cold spray,Cold spray parameter awareness,3,Cold spray parameter awareness,2,0.158,4
+K,Cold spray,PPE and Hazard awareness,3,Cold spray parameter awareness,2,0.158,4
+K,DPP Model,sustainability compliance,0,sustainability compliance,1,0.09,4
+K,DPP Model,Process optimization,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+K,DPP Model,simulation usage,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+K,DPP Model,"Organizing and maintaining the specific data subsets, DPP data workflows",1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+K,DPP Model,Strategic integration,2,Interoperability and data exchange awareness,4,0.09,4
+K,DPP Model,Interoperability and data exchange awareness,2,Interoperability and data exchange awareness,4,0.09,4
+K,DPP Model,Cybersecurity Awareness,2,Interoperability and data exchange awareness,4,0.09,4
+K,DPP Model,"System administration, data security, operational continuity",2,Interoperability and data exchange awareness,4,0.09,4
+K,DPP Model,Problem-solving,3,Digital Content Creation skills,3,0.09,4
+K,DPP Model,Information and Data Literacy skills,3,Digital Content Creation skills,3,0.09,4
+K,DPP Model,Digital Content Creation skills,3,Digital Content Creation skills,3,0.09,4
+K,Function-oriented assembly,"Technological safety, cybersecurity, and privacy",0,System integration,5,0.053,3
+K,Function-oriented assembly,System integration,0,System integration,5,0.053,3
+K,Function-oriented assembly,Ability to operate both virtual and physical assembly environments,0,System integration,5,0.053,3
+K,Function-oriented assembly,Effective human-system communication,0,System integration,5,0.053,3
+K,Function-oriented assembly,Evaluate and verify parameters and adjust settings,0,System integration,5,0.053,3
+K,Function-oriented assembly,Strategic decision-making,1,Strategic decision-making,2,0.053,3
+K,Function-oriented assembly,think out of the box,1,Strategic decision-making,2,0.053,3
+K,Function-oriented assembly,Optimization and scheduling,2,Optimization and scheduling,1,0.053,3
+K,Hybrid disassembly,Observe the disassembly process and understand the sequence the first time it is carried out,0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+K,Hybrid disassembly,Which disassembled components to recycle/scrap/collect,0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+K,Hybrid disassembly,"Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+K,Hybrid disassembly,Check the progress of the plan (disassembly point),0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+K,Hybrid disassembly,Task Programming,1,Knowledge of emergency safety routines,2,0.114,5
+K,Hybrid disassembly,Knowledge of emergency safety routines,1,Knowledge of emergency safety routines,2,0.114,5
+K,Hybrid disassembly,Collaboration and knowledge about the cobot capabilities and parameters,2,Spatial Awareness of the cobot,2,0.114,5
+K,Hybrid disassembly,Spatial Awareness of the cobot,2,Spatial Awareness of the cobot,2,0.114,5
+K,Hybrid disassembly,End effector control,3,End effector control,1,0.114,5
+K,Hybrid disassembly,Interaction with the inline database system to write and read component state data.,4,Interaction with the inline database system to write and read component state data.,1,0.114,5
+L,DPP Model,sustainability compliance,0,sustainability compliance,1,0.09,4
+L,DPP Model,Process optimization,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+L,DPP Model,simulation usage,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+L,DPP Model,"Organizing and maintaining the specific data subsets, DPP data workflows",1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+L,DPP Model,Strategic integration,2,Interoperability and data exchange awareness,4,0.09,4
+L,DPP Model,Interoperability and data exchange awareness,2,Interoperability and data exchange awareness,4,0.09,4
+L,DPP Model,Cybersecurity Awareness,2,Interoperability and data exchange awareness,4,0.09,4
+L,DPP Model,"System administration, data security, operational continuity",2,Interoperability and data exchange awareness,4,0.09,4
+L,DPP Model,Problem-solving,3,Digital Content Creation skills,3,0.09,4
+L,DPP Model,Information and Data Literacy skills,3,Digital Content Creation skills,3,0.09,4
+L,DPP Model,Digital Content Creation skills,3,Digital Content Creation skills,3,0.09,4
+L,Function-oriented assembly,"Technological safety, cybersecurity, and privacy",0,System integration,5,0.053,3
+L,Function-oriented assembly,System integration,0,System integration,5,0.053,3
+L,Function-oriented assembly,Ability to operate both virtual and physical assembly environments,0,System integration,5,0.053,3
+L,Function-oriented assembly,Effective human-system communication,0,System integration,5,0.053,3
+L,Function-oriented assembly,Evaluate and verify parameters and adjust settings,0,System integration,5,0.053,3
+L,Function-oriented assembly,Strategic decision-making,1,Strategic decision-making,2,0.053,3
+L,Function-oriented assembly,think out of the box,1,Strategic decision-making,2,0.053,3
+L,Function-oriented assembly,Optimization and scheduling,2,Optimization and scheduling,1,0.053,3
+L,Hybrid disassembly,Observe the disassembly process and understand the sequence the first time it is carried out,0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+L,Hybrid disassembly,Which disassembled components to recycle/scrap/collect,0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+L,Hybrid disassembly,"Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+L,Hybrid disassembly,Check the progress of the plan (disassembly point),0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+L,Hybrid disassembly,Task Programming,1,Knowledge of emergency safety routines,2,0.114,5
+L,Hybrid disassembly,Knowledge of emergency safety routines,1,Knowledge of emergency safety routines,2,0.114,5
+L,Hybrid disassembly,Collaboration and knowledge about the cobot capabilities and parameters,2,Spatial Awareness of the cobot,2,0.114,5
+L,Hybrid disassembly,Spatial Awareness of the cobot,2,Spatial Awareness of the cobot,2,0.114,5
+L,Hybrid disassembly,End effector control,3,End effector control,1,0.114,5
+L,Hybrid disassembly,Interaction with the inline database system to write and read component state data.,4,Interaction with the inline database system to write and read component state data.,1,0.114,5
+O,DPP Model,sustainability compliance,0,sustainability compliance,1,0.09,4
+O,DPP Model,Process optimization,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+O,DPP Model,simulation usage,1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+O,DPP Model,"Organizing and maintaining the specific data subsets, DPP data workflows",1,"Organizing and maintaining the specific data subsets, DPP data workflows",3,0.09,4
+O,DPP Model,Strategic integration,2,Interoperability and data exchange awareness,4,0.09,4
+O,DPP Model,Interoperability and data exchange awareness,2,Interoperability and data exchange awareness,4,0.09,4
+O,DPP Model,Cybersecurity Awareness,2,Interoperability and data exchange awareness,4,0.09,4
+O,DPP Model,"System administration, data security, operational continuity",2,Interoperability and data exchange awareness,4,0.09,4
+O,DPP Model,Problem-solving,3,Digital Content Creation skills,3,0.09,4
+O,DPP Model,Information and Data Literacy skills,3,Digital Content Creation skills,3,0.09,4
+O,DPP Model,Digital Content Creation skills,3,Digital Content Creation skills,3,0.09,4
+O,Function-oriented assembly,"Technological safety, cybersecurity, and privacy",0,System integration,5,0.053,3
+O,Function-oriented assembly,System integration,0,System integration,5,0.053,3
+O,Function-oriented assembly,Ability to operate both virtual and physical assembly environments,0,System integration,5,0.053,3
+O,Function-oriented assembly,Effective human-system communication,0,System integration,5,0.053,3
+O,Function-oriented assembly,Evaluate and verify parameters and adjust settings,0,System integration,5,0.053,3
+O,Function-oriented assembly,Strategic decision-making,1,Strategic decision-making,2,0.053,3
+O,Function-oriented assembly,think out of the box,1,Strategic decision-making,2,0.053,3
+O,Function-oriented assembly,Optimization and scheduling,2,Optimization and scheduling,1,0.053,3
+O,Hybrid disassembly,Observe the disassembly process and understand the sequence the first time it is carried out,0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+O,Hybrid disassembly,Which disassembled components to recycle/scrap/collect,0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+O,Hybrid disassembly,"Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+O,Hybrid disassembly,Check the progress of the plan (disassembly point),0,Observe the disassembly process and understand the sequence the first time it is carried out,4,0.114,5
+O,Hybrid disassembly,Task Programming,1,Knowledge of emergency safety routines,2,0.114,5
+O,Hybrid disassembly,Knowledge of emergency safety routines,1,Knowledge of emergency safety routines,2,0.114,5
+O,Hybrid disassembly,Collaboration and knowledge about the cobot capabilities and parameters,2,Spatial Awareness of the cobot,2,0.114,5
+O,Hybrid disassembly,Spatial Awareness of the cobot,2,Spatial Awareness of the cobot,2,0.114,5
+O,Hybrid disassembly,End effector control,3,End effector control,1,0.114,5
+O,Hybrid disassembly,Interaction with the inline database system to write and read component state data.,4,Interaction with the inline database system to write and read component state data.,1,0.114,5
