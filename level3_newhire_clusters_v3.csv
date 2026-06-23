@@ -1,0 +1,77 @@
+pilot,role_code,role_label,tech_skill,technologies,cluster_id,profile_id,cluster_label,optimal_k
+A,2,Supervisor,simulation usage,DPP Model,0,A_2_0,Information and Data Literacy skills,2
+A,2,Supervisor,Information and Data Literacy skills,DPP Model,0,A_2_0,Information and Data Literacy skills,2
+A,2,Supervisor,Digital Content Creation skills,DPP Model,0,A_2_0,Information and Data Literacy skills,2
+A,2,Supervisor,Task Programming,Hybrid disassembly,1,A_2_1,Task Programming,2
+A,2,Supervisor,think out of the box,Function-oriented assembly,1,A_2_1,Task Programming,2
+A,2,Supervisor,Evaluate and verify parameters and adjust settings,Function-oriented assembly,1,A_2_1,Task Programming,2
+A,3,Operator,Observe the disassembly process and understand the sequence the first time it is carried out,Hybrid disassembly,0,A_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,4
+A,3,Operator,"Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",Hybrid disassembly,0,A_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,4
+A,3,Operator,Check the progress of the plan (disassembly point),Hybrid disassembly,0,A_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,4
+A,3,Operator,Collaboration and knowledge about the cobot capabilities and parameters,Hybrid disassembly,1,A_3_1,Effective human-system communication,4
+A,3,Operator,Effective human-system communication,Function-oriented assembly,1,A_3_1,Effective human-system communication,4
+A,3,Operator,End effector control,Hybrid disassembly,2,A_3_2,End effector control,4
+A,3,Operator,"Organizing and maintaining the specific data subsets, DPP data workflows",DPP Model,3,A_3_3,"Organizing and maintaining the specific data subsets, DPP data workflows",4
+A,3,Operator,Interaction with the inline database system to write and read component state data.,Hybrid disassembly,3,A_3_3,"Organizing and maintaining the specific data subsets, DPP data workflows",4
+B,2,Supervisor,simulation usage,DPP Model,0,B_2_0,Digital Content Creation skills,2
+B,2,Supervisor,Information and Data Literacy skills,DPP Model,0,B_2_0,Digital Content Creation skills,2
+B,2,Supervisor,Digital Content Creation skills,DPP Model,0,B_2_0,Digital Content Creation skills,2
+B,2,Supervisor,Evaluate and verify parameters and adjust settings,Function-oriented assembly,0,B_2_0,Digital Content Creation skills,2
+B,2,Supervisor,think out of the box,Function-oriented assembly,1,B_2_1,think out of the box,2
+B,3,Operator,Basic material science knowledge,Cold spray,0,B_3_0,Basic material science knowledge,2
+B,3,Operator,Cold spray parameter awareness,Cold spray,0,B_3_0,Basic material science knowledge,2
+B,3,Operator,"Organizing and maintaining the specific data subsets, DPP data workflows",DPP Model,1,B_3_1,Procedural precision and mental focus,2
+B,3,Operator,Cognitive and spatial reasoning,Cold spray,1,B_3_1,Procedural precision and mental focus,2
+B,3,Operator,Psychomotor and physical capabilities,Cold spray,1,B_3_1,Procedural precision and mental focus,2
+B,3,Operator,Procedural precision and mental focus,Cold spray,1,B_3_1,Procedural precision and mental focus,2
+B,3,Operator,Basic robotic programming,Cold spray,1,B_3_1,Procedural precision and mental focus,2
+B,3,Operator,Effective human-system communication,Function-oriented assembly,1,B_3_1,Procedural precision and mental focus,2
+K,2,Supervisor,simulation usage,DPP Model,0,K_2_0,Information and Data Literacy skills,3
+K,2,Supervisor,Information and Data Literacy skills,DPP Model,0,K_2_0,Information and Data Literacy skills,3
+K,2,Supervisor,Digital Content Creation skills,DPP Model,0,K_2_0,Information and Data Literacy skills,3
+K,2,Supervisor,Task Programming,Hybrid disassembly,1,K_2_1,Task Programming,3
+K,2,Supervisor,think out of the box,Function-oriented assembly,1,K_2_1,Task Programming,3
+K,2,Supervisor,Evaluate and verify parameters and adjust settings,Function-oriented assembly,1,K_2_1,Task Programming,3
+K,2,Supervisor,PPE and Hazard awareness,Cold spray,2,K_2_2,PPE and Hazard awareness,3
+K,3,Operator,Observe the disassembly process and understand the sequence the first time it is carried out,Hybrid disassembly,0,K_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,5
+K,3,Operator,Check the progress of the plan (disassembly point),Hybrid disassembly,0,K_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,5
+K,3,Operator,"Organizing and maintaining the specific data subsets, DPP data workflows",DPP Model,1,K_3_1,"Organizing and maintaining the specific data subsets, DPP data workflows",5
+K,3,Operator,Interaction with the inline database system to write and read component state data.,Hybrid disassembly,1,K_3_1,"Organizing and maintaining the specific data subsets, DPP data workflows",5
+K,3,Operator,Collaboration and knowledge about the cobot capabilities and parameters,Hybrid disassembly,2,K_3_2,Psychomotor and physical capabilities,5
+K,3,Operator,End effector control,Hybrid disassembly,2,K_3_2,Psychomotor and physical capabilities,5
+K,3,Operator,Psychomotor and physical capabilities,Cold spray,2,K_3_2,Psychomotor and physical capabilities,5
+K,3,Operator,Basic robotic programming,Cold spray,2,K_3_2,Psychomotor and physical capabilities,5
+K,3,Operator,Effective human-system communication,Function-oriented assembly,2,K_3_2,Psychomotor and physical capabilities,5
+K,3,Operator,Basic material science knowledge,Cold spray,3,K_3_3,Basic material science knowledge,5
+K,3,Operator,Cold spray parameter awareness,Cold spray,3,K_3_3,Basic material science knowledge,5
+K,3,Operator,Cognitive and spatial reasoning,Cold spray,4,K_3_4,Cognitive and spatial reasoning,5
+K,3,Operator,Procedural precision and mental focus,Cold spray,4,K_3_4,Cognitive and spatial reasoning,5
+L,2,Supervisor,simulation usage,DPP Model,0,L_2_0,Information and Data Literacy skills,2
+L,2,Supervisor,Information and Data Literacy skills,DPP Model,0,L_2_0,Information and Data Literacy skills,2
+L,2,Supervisor,Digital Content Creation skills,DPP Model,0,L_2_0,Information and Data Literacy skills,2
+L,2,Supervisor,Task Programming,Hybrid disassembly,1,L_2_1,Task Programming,2
+L,2,Supervisor,Optimization and scheduling,Function-oriented assembly,1,L_2_1,Task Programming,2
+L,2,Supervisor,think out of the box,Function-oriented assembly,1,L_2_1,Task Programming,2
+L,2,Supervisor,Evaluate and verify parameters and adjust settings,Function-oriented assembly,1,L_2_1,Task Programming,2
+L,3,Operator,Observe the disassembly process and understand the sequence the first time it is carried out,Hybrid disassembly,0,L_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,4
+L,3,Operator,"Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",Hybrid disassembly,0,L_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,4
+L,3,Operator,Check the progress of the plan (disassembly point),Hybrid disassembly,0,L_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,4
+L,3,Operator,Collaboration and knowledge about the cobot capabilities and parameters,Hybrid disassembly,1,L_3_1,Effective human-system communication,4
+L,3,Operator,Effective human-system communication,Function-oriented assembly,1,L_3_1,Effective human-system communication,4
+L,3,Operator,End effector control,Hybrid disassembly,2,L_3_2,End effector control,4
+L,3,Operator,"Organizing and maintaining the specific data subsets, DPP data workflows",DPP Model,3,L_3_3,"Organizing and maintaining the specific data subsets, DPP data workflows",4
+L,3,Operator,Interaction with the inline database system to write and read component state data.,Hybrid disassembly,3,L_3_3,"Organizing and maintaining the specific data subsets, DPP data workflows",4
+O,2,Supervisor,simulation usage,DPP Model,0,O_2_0,Information and Data Literacy skills,2
+O,2,Supervisor,Information and Data Literacy skills,DPP Model,0,O_2_0,Information and Data Literacy skills,2
+O,2,Supervisor,Digital Content Creation skills,DPP Model,0,O_2_0,Information and Data Literacy skills,2
+O,2,Supervisor,Task Programming,Hybrid disassembly,1,O_2_1,Task Programming,2
+O,2,Supervisor,think out of the box,Function-oriented assembly,1,O_2_1,Task Programming,2
+O,2,Supervisor,Evaluate and verify parameters and adjust settings,Function-oriented assembly,1,O_2_1,Task Programming,2
+O,3,Operator,Observe the disassembly process and understand the sequence the first time it is carried out,Hybrid disassembly,0,O_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,4
+O,3,Operator,"Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",Hybrid disassembly,0,O_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,4
+O,3,Operator,Check the progress of the plan (disassembly point),Hybrid disassembly,0,O_3_0,Observe the disassembly process and understand the sequence the first time it is carried out,4
+O,3,Operator,Collaboration and knowledge about the cobot capabilities and parameters,Hybrid disassembly,1,O_3_1,Effective human-system communication,4
+O,3,Operator,Effective human-system communication,Function-oriented assembly,1,O_3_1,Effective human-system communication,4
+O,3,Operator,End effector control,Hybrid disassembly,2,O_3_2,End effector control,4
+O,3,Operator,"Organizing and maintaining the specific data subsets, DPP data workflows",DPP Model,3,O_3_3,"Organizing and maintaining the specific data subsets, DPP data workflows",4
+O,3,Operator,Interaction with the inline database system to write and read component state data.,Hybrid disassembly,3,O_3_3,"Organizing and maintaining the specific data subsets, DPP data workflows",4
