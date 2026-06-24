@@ -1,53 +1,53 @@
-tech_skill_id,esco_skill_uri,similarity,state
-DPP Model_sustainability compliance,http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d,0.785,present
-DPP Model_Strategic integration,http://data.europa.eu/esco/skill/a4a882a1-0263-4dd2-b29a-f0028cac2393,0.782,present
-Hybrid disassembly_Which disassembled components to recycle/scrap/collect,http://data.europa.eu/esco/skill/2562fa92-6ecf-4ba9-831e-0ce94acb8991,0.7243,adjacent
-Function-oriented assembly_Strategic decision-making,http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63,0.7142,adjacent
-Hybrid disassembly_Knowledge of emergency safety routines,http://data.europa.eu/esco/skill/445b65c5-5b16-4f66-94ce-f2a7f49f9ee7,0.7078,adjacent
-DPP Model_sustainability compliance,http://data.europa.eu/esco/skill/f66b2fc3-2952-41e5-89bf-a9157ea29420,0.6679,adjacent
-Cold spray_Waste management,http://data.europa.eu/esco/skill/f82b05a7-128b-4a72-a815-044ff6062f62,0.663,adjacent
-DPP Model_sustainability compliance,http://data.europa.eu/esco/skill/fb40d2c6-fe3c-4e49-9289-49e98900b315,0.6612,adjacent
-"DPP Model_System administration, data security, operational continuity",http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13,0.6495,adjacent
-DPP Model_Cybersecurity Awareness,http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44,0.6477,adjacent
-DPP Model_Strategic integration,http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63,0.647,adjacent
-Function-oriented assembly_Optimization and scheduling,http://data.europa.eu/esco/skill/d63f83f4-648e-4adb-8e4c-b7aa7b3d76c0,0.6396,adjacent
-Cold spray_Quality control basics,http://data.europa.eu/esco/skill/1177c6f5-09c5-4c35-873c-afd22d170ad3,0.6375,adjacent
-Hybrid disassembly_Spatial Awareness of the cobot,http://data.europa.eu/esco/skill/4e7b2c61-aa42-404c-995f-32281b818923,0.6331,adjacent
-Function-oriented assembly_Strategic decision-making,http://data.europa.eu/esco/skill/d41262ae-eca1-4ede-89a8-46d2d99a7a31,0.6287,adjacent
-DPP Model_Interoperability and data exchange awareness,http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1,0.6238,adjacent
-"Function-oriented assembly_Technological safety, cybersecurity, and privacy",http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44,0.6225,adjacent
-DPP Model_sustainability compliance,http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d,0.6206,adjacent
-Hybrid disassembly_Which disassembled components to recycle/scrap/collect,http://data.europa.eu/esco/skill/a380a391-08fd-44a6-9f8c-39de05dd996b,0.6196,adjacent
-"Hybrid disassembly_Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level",http://data.europa.eu/esco/skill/2562fa92-6ecf-4ba9-831e-0ce94acb8991,0.6187,adjacent
-Cold spray_Waste management,http://data.europa.eu/esco/skill/519e5731-4d6c-4f98-938e-0976a202c6ba,0.6182,adjacent
-Cold spray_Waste management,http://data.europa.eu/esco/skill/3220a66f-d129-463b-848e-891b4f1c79e3,0.6124,adjacent
-DPP Model_sustainability compliance,http://data.europa.eu/esco/skill/233be639-bdb5-4099-ab40-96d537d6c1f3,0.6121,adjacent
-DPP Model_Problem-solving,http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a,0.6103,adjacent
-DPP Model_sustainability compliance,http://data.europa.eu/esco/skill/df08a4ae-4024-4460-8c92-eab78da1c94b,0.6065,adjacent
-Hybrid disassembly_Which disassembled components to recycle/scrap/collect,http://data.europa.eu/esco/skill/3dc6fd8e-6ff7-432e-a262-04d487858efb,0.5994,adjacent
-Hybrid disassembly_Knowledge of emergency safety routines,http://data.europa.eu/esco/skill/989dc903-5838-4d84-8e04-e5b7a2ba97c5,0.5991,adjacent
-DPP Model_sustainability compliance,http://data.europa.eu/esco/skill/6f5850ea-5785-4e2c-b062-743066fd5bdb,0.5981,adjacent
-"Function-oriented assembly_Technological safety, cybersecurity, and privacy",http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf,0.5934,adjacent
-Hybrid disassembly_Knowledge of emergency safety routines,http://data.europa.eu/esco/skill/a7b9e3cd-cd39-4ea1-b617-3f5b651fd535,0.5934,adjacent
-Cold spray_Quality control basics,http://data.europa.eu/esco/skill/8af372fa-7b85-4bab-ab20-3f2eb980c400,0.5919,adjacent
-Hybrid disassembly_Knowledge of emergency safety routines,http://data.europa.eu/esco/skill/44e2c4c4-9fd2-42d4-a133-d81360ded4bc,0.5904,adjacent
-Cold spray_Quality control basics,http://data.europa.eu/esco/skill/3edfcb2b-2d0e-4673-87ce-f55c37eb5fca,0.5897,adjacent
-DPP Model_sustainability compliance,http://data.europa.eu/esco/skill/afbc401c-cad8-43b6-8d61-775d2c7b58d5,0.5889,adjacent
-DPP Model_Process optimization,http://data.europa.eu/esco/skill/0f0698e7-04e4-4bf7-9af2-e3191147525a,0.5885,adjacent
-Hybrid disassembly_Knowledge of emergency safety routines,http://data.europa.eu/esco/skill/f2f463e5-2382-49cb-8199-e7e043d868df,0.5816,adjacent
-Hybrid disassembly_Knowledge of emergency safety routines,http://data.europa.eu/esco/skill/47d491a9-f7c0-4b13-a10f-983d3aa0113e,0.578,adjacent
-Hybrid disassembly_Knowledge of emergency safety routines,http://data.europa.eu/esco/skill/d2d9051a-10e1-41c5-9cfb-bbdc58016176,0.5773,adjacent
-DPP Model_Process optimization,http://data.europa.eu/esco/skill/3786b61f-f22e-48d1-af8d-ad4c354534db,0.5756,adjacent
-"DPP Model_System administration, data security, operational continuity",http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0,0.5749,adjacent
-Hybrid disassembly_Which disassembled components to recycle/scrap/collect,http://data.europa.eu/esco/skill/db3c8181-31b4-4950-bf0b-de01f93c372b,0.5744,adjacent
-DPP Model_Process optimization,http://data.europa.eu/esco/skill/7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba,0.5722,adjacent
-Cold spray_assess surface condition,http://data.europa.eu/esco/skill/a93011ca-e6ab-4182-8a05-4d4b282cff27,0.5678,adjacent
-Cold spray_Waste management,http://data.europa.eu/esco/skill/82b14cde-76e7-4d4b-b564-c45c014f3ce4,0.5677,adjacent
-Hybrid disassembly_Knowledge of emergency safety routines,http://data.europa.eu/esco/skill/499c05a2-6f36-4407-83c1-dc3448d35818,0.5672,adjacent
-Cold spray_Quality control basics,http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f,0.5667,adjacent
-DPP Model_sustainability compliance,http://data.europa.eu/esco/skill/103f7814-d262-4df6-a1b6-759bc51f76cb,0.5644,adjacent
-DPP Model_Problem-solving,http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041,0.5626,adjacent
-Cold spray_PPE and Hazard awareness,http://data.europa.eu/esco/skill/f2f463e5-2382-49cb-8199-e7e043d868df,0.5584,adjacent
-Cold spray_Quality control basics,http://data.europa.eu/esco/skill/8d4271ca-c9fd-40b3-875f-15f78332a49e,0.5547,adjacent
-Function-oriented assembly_System integration,http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72,0.5534,adjacent
-Function-oriented assembly_Ability to operate both virtual and physical assembly environments,http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3,0.5517,adjacent
+tech_skill_id|technology|tech_label|esco_skill_uri|esco_label|similarity|state
+Cold spray_PPE and Hazard awareness|Cold spray|PPE and Hazard awareness|http://data.europa.eu/esco/skill/f2f463e5-2382-49cb-8199-e7e043d868df|health and safety regulations|0.5584|adjacent
+Cold spray_Quality control basics|Cold spray|Quality control basics|http://data.europa.eu/esco/skill/1177c6f5-09c5-4c35-873c-afd22d170ad3|quality assurance procedures|0.6375|adjacent
+Cold spray_Quality control basics|Cold spray|Quality control basics|http://data.europa.eu/esco/skill/8af372fa-7b85-4bab-ab20-3f2eb980c400|total quality control|0.5919|adjacent
+Cold spray_Quality control basics|Cold spray|Quality control basics|http://data.europa.eu/esco/skill/3edfcb2b-2d0e-4673-87ce-f55c37eb5fca|monitor manufacturing quality standards|0.5897|adjacent
+Cold spray_Quality control basics|Cold spray|Quality control basics|http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f|quality assurance methodologies|0.5667|adjacent
+Cold spray_Quality control basics|Cold spray|Quality control basics|http://data.europa.eu/esco/skill/8d4271ca-c9fd-40b3-875f-15f78332a49e|quality standards|0.5547|adjacent
+Cold spray_Waste management|Cold spray|Waste management|http://data.europa.eu/esco/skill/f82b05a7-128b-4a72-a815-044ff6062f62|advise on waste management procedures|0.663|adjacent
+Cold spray_Waste management|Cold spray|Waste management|http://data.europa.eu/esco/skill/519e5731-4d6c-4f98-938e-0976a202c6ba|hazardous waste treatment|0.6182|adjacent
+Cold spray_Waste management|Cold spray|Waste management|http://data.europa.eu/esco/skill/3220a66f-d129-463b-848e-891b4f1c79e3|develop hazardous waste management strategies|0.6124|adjacent
+Cold spray_Waste management|Cold spray|Waste management|http://data.europa.eu/esco/skill/82b14cde-76e7-4d4b-b564-c45c014f3ce4|waste removal regulations|0.5677|adjacent
+Cold spray_assess surface condition|Cold spray|assess surface condition|http://data.europa.eu/esco/skill/a93011ca-e6ab-4182-8a05-4d4b282cff27|check quality of raw materials|0.5678|adjacent
+DPP Model_Cybersecurity Awareness|DPP Model|Cybersecurity Awareness|http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44|cyber security|0.6477|adjacent
+DPP Model_Interoperability and data exchange awareness|DPP Model|Interoperability and data exchange awareness|http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1|manage standards for data exchange|0.6238|adjacent
+DPP Model_Problem-solving|DPP Model|Problem-solving|http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a|solve technical problems|0.6103|adjacent
+DPP Model_Problem-solving|DPP Model|Problem-solving|http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041|create solutions to problems|0.5626|adjacent
+DPP Model_Process optimization|DPP Model|Process optimization|http://data.europa.eu/esco/skill/0f0698e7-04e4-4bf7-9af2-e3191147525a|optimise production processes parameters|0.5885|adjacent
+DPP Model_Process optimization|DPP Model|Process optimization|http://data.europa.eu/esco/skill/3786b61f-f22e-48d1-af8d-ad4c354534db|manufacturing processes|0.5756|adjacent
+DPP Model_Process optimization|DPP Model|Process optimization|http://data.europa.eu/esco/skill/7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba|plan manufacturing processes|0.5722|adjacent
+DPP Model_Strategic integration|DPP Model|Strategic integration|http://data.europa.eu/esco/skill/a4a882a1-0263-4dd2-b29a-f0028cac2393|define integration strategy|0.782|present
+DPP Model_Strategic integration|DPP Model|Strategic integration|http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63|make strategic business decisions|0.647|adjacent
+DPP Model_System administration, data security, operational continuity|DPP Model|System administration, data security, operational continuity|http://data.europa.eu/esco/skill/2a3a96a3-709e-4d60-81f6-d247d6933f13|manage system security|0.6495|adjacent
+DPP Model_System administration, data security, operational continuity|DPP Model|System administration, data security, operational continuity|http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0|maintain database security|0.5749|adjacent
+DPP Model_sustainability compliance|DPP Model|sustainability compliance|http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d|ensure compliance with environmental legislation|0.785|present
+DPP Model_sustainability compliance|DPP Model|sustainability compliance|http://data.europa.eu/esco/skill/f66b2fc3-2952-41e5-89bf-a9157ea29420|ensure compliance with environmental legislation in food production|0.6679|adjacent
+DPP Model_sustainability compliance|DPP Model|sustainability compliance|http://data.europa.eu/esco/skill/fb40d2c6-fe3c-4e49-9289-49e98900b315|ensure compliance with maintenance legislation|0.6612|adjacent
+DPP Model_sustainability compliance|DPP Model|sustainability compliance|http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d|ensure compliance with company regulations|0.6206|adjacent
+DPP Model_sustainability compliance|DPP Model|sustainability compliance|http://data.europa.eu/esco/skill/233be639-bdb5-4099-ab40-96d537d6c1f3|ensure compliance with safety legislation|0.6121|adjacent
+DPP Model_sustainability compliance|DPP Model|sustainability compliance|http://data.europa.eu/esco/skill/df08a4ae-4024-4460-8c92-eab78da1c94b|ensure material compliance|0.6065|adjacent
+DPP Model_sustainability compliance|DPP Model|sustainability compliance|http://data.europa.eu/esco/skill/6f5850ea-5785-4e2c-b062-743066fd5bdb|environmental legislation|0.5981|adjacent
+DPP Model_sustainability compliance|DPP Model|sustainability compliance|http://data.europa.eu/esco/skill/afbc401c-cad8-43b6-8d61-775d2c7b58d5|prepare compliance documents|0.5889|adjacent
+DPP Model_sustainability compliance|DPP Model|sustainability compliance|http://data.europa.eu/esco/skill/103f7814-d262-4df6-a1b6-759bc51f76cb|sustainable technologies|0.5644|adjacent
+Function-oriented assembly_Ability to operate both virtual and physical assembly environments|Function-oriented assembly|Ability to operate both virtual and physical assembly environments|http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3|Assembly (computer programming)|0.5517|adjacent
+Function-oriented assembly_Optimization and scheduling|Function-oriented assembly|Optimization and scheduling|http://data.europa.eu/esco/skill/d63f83f4-648e-4adb-8e4c-b7aa7b3d76c0|assist in planning production scheduling|0.6396|adjacent
+Function-oriented assembly_Strategic decision-making|Function-oriented assembly|Strategic decision-making|http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63|make strategic business decisions|0.7142|adjacent
+Function-oriented assembly_Strategic decision-making|Function-oriented assembly|Strategic decision-making|http://data.europa.eu/esco/skill/d41262ae-eca1-4ede-89a8-46d2d99a7a31|consider economic criteria in decision making|0.6287|adjacent
+Function-oriented assembly_System integration|Function-oriented assembly|System integration|http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72|integrate system components|0.5534|adjacent
+Function-oriented assembly_Technological safety, cybersecurity, and privacy|Function-oriented assembly|Technological safety, cybersecurity, and privacy|http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44|cyber security|0.6225|adjacent
+Function-oriented assembly_Technological safety, cybersecurity, and privacy|Function-oriented assembly|Technological safety, cybersecurity, and privacy|http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf|identify ICT security risks|0.5934|adjacent
+Hybrid disassembly_Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level|Hybrid disassembly|Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level|http://data.europa.eu/esco/skill/2562fa92-6ecf-4ba9-831e-0ce94acb8991|disassemble equipment|0.6187|adjacent
+Hybrid disassembly_Knowledge of emergency safety routines|Hybrid disassembly|Knowledge of emergency safety routines|http://data.europa.eu/esco/skill/445b65c5-5b16-4f66-94ce-f2a7f49f9ee7|manage emergency procedures|0.7078|adjacent
+Hybrid disassembly_Knowledge of emergency safety routines|Hybrid disassembly|Knowledge of emergency safety routines|http://data.europa.eu/esco/skill/989dc903-5838-4d84-8e04-e5b7a2ba97c5|apply safety management|0.5991|adjacent
+Hybrid disassembly_Knowledge of emergency safety routines|Hybrid disassembly|Knowledge of emergency safety routines|http://data.europa.eu/esco/skill/a7b9e3cd-cd39-4ea1-b617-3f5b651fd535|conduct full-scale emergency plan exercises|0.5934|adjacent
+Hybrid disassembly_Knowledge of emergency safety routines|Hybrid disassembly|Knowledge of emergency safety routines|http://data.europa.eu/esco/skill/44e2c4c4-9fd2-42d4-a133-d81360ded4bc|manage health and safety standards|0.5904|adjacent
+Hybrid disassembly_Knowledge of emergency safety routines|Hybrid disassembly|Knowledge of emergency safety routines|http://data.europa.eu/esco/skill/f2f463e5-2382-49cb-8199-e7e043d868df|health and safety regulations|0.5816|adjacent
+Hybrid disassembly_Knowledge of emergency safety routines|Hybrid disassembly|Knowledge of emergency safety routines|http://data.europa.eu/esco/skill/47d491a9-f7c0-4b13-a10f-983d3aa0113e|safety engineering|0.578|adjacent
+Hybrid disassembly_Knowledge of emergency safety routines|Hybrid disassembly|Knowledge of emergency safety routines|http://data.europa.eu/esco/skill/d2d9051a-10e1-41c5-9cfb-bbdc58016176|follow safety precautions in work practices|0.5773|adjacent
+Hybrid disassembly_Knowledge of emergency safety routines|Hybrid disassembly|Knowledge of emergency safety routines|http://data.europa.eu/esco/skill/499c05a2-6f36-4407-83c1-dc3448d35818|ensure public safety and security|0.5672|adjacent
+Hybrid disassembly_Spatial Awareness of the cobot|Hybrid disassembly|Spatial Awareness of the cobot|http://data.europa.eu/esco/skill/4e7b2c61-aa42-404c-995f-32281b818923|have spatial awareness|0.6331|adjacent
+Hybrid disassembly_Which disassembled components to recycle/scrap/collect|Hybrid disassembly|Which disassembled components to recycle/scrap/collect|http://data.europa.eu/esco/skill/2562fa92-6ecf-4ba9-831e-0ce94acb8991|disassemble equipment|0.7243|adjacent
+Hybrid disassembly_Which disassembled components to recycle/scrap/collect|Hybrid disassembly|Which disassembled components to recycle/scrap/collect|http://data.europa.eu/esco/skill/a380a391-08fd-44a6-9f8c-39de05dd996b|clean components during assembly|0.6196|adjacent
+Hybrid disassembly_Which disassembled components to recycle/scrap/collect|Hybrid disassembly|Which disassembled components to recycle/scrap/collect|http://data.europa.eu/esco/skill/3dc6fd8e-6ff7-432e-a262-04d487858efb|assemble hardware components|0.5994|adjacent
+Hybrid disassembly_Which disassembled components to recycle/scrap/collect|Hybrid disassembly|Which disassembled components to recycle/scrap/collect|http://data.europa.eu/esco/skill/db3c8181-31b4-4950-bf0b-de01f93c372b|disassemble engines|0.5744|adjacent
