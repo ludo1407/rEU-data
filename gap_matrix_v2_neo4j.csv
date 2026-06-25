@@ -1,73 +1,64 @@
 pilot|technology|esco_occ_code|isco_code|occupation_title|role_code|role_code_inferred|tech_label|best_esco_label|best_esco_uri|similarity|affinity_score|state|strategy|priority
-A|DPP Model|2521.5|2521|data warehouse designer|2.0|2|Interoperability and data exchange awareness|manage standards for data exchange|http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1|0.6238|0.1656|adjacent|upskilling|0.0
+A|DPP Model|2521.4|2521|database integrator|2.0|2|Interoperability and data exchange awareness|||0.0|0.2294|absent_internal|reskilling|1.0
 A|DPP Model|2144.1.9|2144|Industrial Tool Design Engineer|2.0|2|Problem-solving|create solutions to problems|http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041|0.5626|0.2836|adjacent|upskilling|0.0
 A|DPP Model|2144.1.9|2144|Industrial Tool Design Engineer|2.0|2|Process optimization|manufacturing processes|http://data.europa.eu/esco/skill/3786b61f-f22e-48d1-af8d-ad4c354534db|0.5756|0.2862|adjacent|upskilling|0.0
 A|DPP Model|2521.4|2521|database integrator|1.0|2|Strategic integration|define integration strategy|http://data.europa.eu/esco/skill/a4a882a1-0263-4dd2-b29a-f0028cac2393|0.782|0.181|present|no action|-1.0
 A|DPP Model|2521.1|2521|database administrator|1.0|2|System administration, data security, operational continuity|maintain database security|http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0|0.5749|0.2459|adjacent|upskilling|0.0
 A|DPP Model|4322.1|4322|Machinery Assembly Coordinator|1.0|3|sustainability compliance|ensure compliance with environmental legislation|http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d|0.785|0.2048|present|no action|-1.0
-A|Function-oriented assembly|1324.8|1324|Supply Chain Managers|2.0|1|Optimization and scheduling|assist in planning production scheduling|http://data.europa.eu/esco/skill/d63f83f4-648e-4adb-8e4c-b7aa7b3d76c0|0.6396|0.1951|adjacent|upskilling|0.0
+A|Function-oriented assembly|1321.2.1|1321|Industrial Production Managers|2.0|1|Optimization and scheduling|||0.0|0.2201|absent_internal|reskilling|1.0
 A|Function-oriented assembly|1321.2.3|1321|operations manager|3.0|1|Strategic decision-making|make strategic business decisions|http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63|0.7142|0.2561|adjacent|upskilling|0.0
-A|Function-oriented assembly|2521.3|2521|database developer|2.0|2|System integration|integrate system components|http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72|0.5534|0.1435|adjacent|upskilling|0.0
-A|Function-oriented assembly|2521.3|2521|database developer|1.0|2|Technological safety, cybersecurity, and privacy|identify ICT security risks|http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf|0.5934|0.1014|adjacent|upskilling|0.0
-A|Hybrid disassembly|7412.3|7412|Electrical Mechanic|2.0|3|Knowledge of emergency safety routines|apply safety management|http://data.europa.eu/esco/skill/989dc903-5838-4d84-8e04-e5b7a2ba97c5|0.5991|0.1525|adjacent|upskilling|0.0
-A|Hybrid disassembly|9333.8|9333|Freight Handlers|3.0|3|Spatial Awareness of the cobot|have spatial awareness|http://data.europa.eu/esco/skill/4e7b2c61-aa42-404c-995f-32281b818923|0.6331|0.06|adjacent|upskilling|0.0
+A|Function-oriented assembly|2521.4|2521|database integrator|2.0|2|System integration|||0.0|0.2044|absent_internal|reskilling|1.0
+A|Hybrid disassembly|7412.3|7412|Electrical Mechanic|2.0|3|Knowledge of emergency safety routines|apply safety management|http://data.europa.eu/esco/skill/989dc903-5838-4d84-8e04-e5b7a2ba97c5|0.5991|0.1525|absent_internal|reskilling|1.0
 A|Hybrid disassembly|8211.3|8211|Mecharonics Assembler|3.0|3|Which disassembled components to recycle/scrap/collect|clean components during assembly|http://data.europa.eu/esco/skill/a380a391-08fd-44a6-9f8c-39de05dd996b|0.6196|0.2049|adjacent|upskilling|0.0
-B|Cold spray|3115.1.13|3115|motor vehicle engine tester|2.0|2|PPE and Hazard awareness|health and safety regulations|http://data.europa.eu/esco/skill/f2f463e5-2382-49cb-8199-e7e043d868df|0.5584|0.1248|adjacent|upskilling|0.0
 B|Cold spray|1321.2.2|1321|industrial quality manager|3.0|1|Quality control basics|total quality control|http://data.europa.eu/esco/skill/8af372fa-7b85-4bab-ab20-3f2eb980c400|0.5919|0.3468|adjacent|upskilling|0.0
 B|Cold spray|8212.3.6|8212|semiconductor processor|3.0|3|Waste management|waste removal regulations|http://data.europa.eu/esco/skill/82b14cde-76e7-4d4b-b564-c45c014f3ce4|0.5677|0.2302|adjacent|upskilling|0.0
 B|Cold spray|1321.2.2|1321|industrial quality manager|3.0|1|assess surface condition|check quality of raw materials|http://data.europa.eu/esco/skill/a93011ca-e6ab-4182-8a05-4d4b282cff27|0.5678|0.2633|adjacent|upskilling|0.0
-B|DPP Model|2521.5|2521|data warehouse designer|2.0|2|Interoperability and data exchange awareness|manage standards for data exchange|http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1|0.6238|0.1656|adjacent|upskilling|0.0
+B|DPP Model|2521.4|2521|database integrator|2.0|2|Interoperability and data exchange awareness|||0.0|0.2294|absent_internal|reskilling|1.0
 B|DPP Model|3115.1.16|3115|production engineering technician|2.0|2|Problem-solving|solve technical problems|http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a|0.6103|0.2837|adjacent|upskilling|0.0
 B|DPP Model|2141.4|2141|industrial engineer|2.0|2|Process optimization|optimise production processes parameters|http://data.europa.eu/esco/skill/0f0698e7-04e4-4bf7-9af2-e3191147525a|0.5885|0.29|adjacent|upskilling|0.0
 B|DPP Model|2521.4|2521|database integrator|1.0|2|Strategic integration|define integration strategy|http://data.europa.eu/esco/skill/a4a882a1-0263-4dd2-b29a-f0028cac2393|0.782|0.181|present|no action|-1.0
 B|DPP Model|2521.1|2521|database administrator|1.0|2|System administration, data security, operational continuity|maintain database security|http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0|0.5749|0.2459|adjacent|upskilling|0.0
 B|DPP Model|3119.16|3119|quality engineering technician|1.0|2|sustainability compliance|ensure compliance with environmental legislation|http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d|0.785|0.2089|present|no action|-1.0
-B|Function-oriented assembly|1324.8|1324|supply chain manager|2.0|1|Optimization and scheduling|assist in planning production scheduling|http://data.europa.eu/esco/skill/d63f83f4-648e-4adb-8e4c-b7aa7b3d76c0|0.6396|0.1951|adjacent|upskilling|0.0
+B|Function-oriented assembly|2141.4|2141|industrial engineer|2.0|2|Optimization and scheduling|||0.0|0.2238|absent_internal|reskilling|1.0
 B|Function-oriented assembly|1321.2.3|1321|operations manager|3.0|1|Strategic decision-making|make strategic business decisions|http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63|0.7142|0.2561|adjacent|upskilling|0.0
-B|Function-oriented assembly|2521.3|2521|database developer|2.0|2|System integration|integrate system components|http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72|0.5534|0.1435|adjacent|upskilling|0.0
-B|Function-oriented assembly|2521.3|2521|database developer|1.0|2|Technological safety, cybersecurity, and privacy|identify ICT security risks|http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf|0.5934|0.1014|adjacent|upskilling|0.0
+B|Function-oriented assembly|2521.4|2521|database integrator|2.0|2|System integration|||0.0|0.2044|absent_internal|reskilling|1.0
 K|Cold spray|1321.2.2|1321|industrial quality manager|3.0|1|Quality control basics|total quality control|http://data.europa.eu/esco/skill/8af372fa-7b85-4bab-ab20-3f2eb980c400|0.5919|0.3468|adjacent|upskilling|0.0
 K|Cold spray|8212.3.6|8212|semiconductor processor|3.0|3|Waste management|waste removal regulations|http://data.europa.eu/esco/skill/82b14cde-76e7-4d4b-b564-c45c014f3ce4|0.5677|0.2302|adjacent|upskilling|0.0
 K|Cold spray|1321.2.2|1321|industrial quality manager|3.0|1|assess surface condition|check quality of raw materials|http://data.europa.eu/esco/skill/a93011ca-e6ab-4182-8a05-4d4b282cff27|0.5678|0.2633|adjacent|upskilling|0.0
-K|DPP Model|2521.5|2521|data warehouse designer|2.0|2|Interoperability and data exchange awareness|manage standards for data exchange|http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1|0.6238|0.1656|adjacent|upskilling|0.0
+K|DPP Model|2521.4|2521|database integrator|2.0|2|Interoperability and data exchange awareness|||0.0|0.2294|absent_internal|reskilling|1.0
 K|DPP Model|3119.14|3119|process engineering technician|2.0|2|Problem-solving|create solutions to problems|http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041|0.5626|0.2835|adjacent|upskilling|0.0
 K|DPP Model|2141.4|2141|industrial engineer|2.0|2|Process optimization|optimise production processes parameters|http://data.europa.eu/esco/skill/0f0698e7-04e4-4bf7-9af2-e3191147525a|0.5885|0.29|adjacent|upskilling|0.0
 K|DPP Model|2521.4|2521|database integrator|1.0|2|Strategic integration|define integration strategy|http://data.europa.eu/esco/skill/a4a882a1-0263-4dd2-b29a-f0028cac2393|0.782|0.181|present|no action|-1.0
 K|DPP Model|2521.1|2521|database administrator|1.0|2|System administration, data security, operational continuity|maintain database security|http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0|0.5749|0.2459|adjacent|upskilling|0.0
 K|DPP Model|3119.16|3119|quality engineering technician|1.0|2|sustainability compliance|ensure compliance with environmental legislation|http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d|0.785|0.2089|present|no action|-1.0
-K|Function-oriented assembly|1324.8|1324|Supply Chain Managers|2.0|1|Optimization and scheduling|assist in planning production scheduling|http://data.europa.eu/esco/skill/d63f83f4-648e-4adb-8e4c-b7aa7b3d76c0|0.6396|0.1951|adjacent|upskilling|0.0
+K|Function-oriented assembly|2141.4|2141|industrial engineer|2.0|2|Optimization and scheduling|||0.0|0.2238|absent_internal|reskilling|1.0
 K|Function-oriented assembly|1321.2.3|1321|operations manager|3.0|1|Strategic decision-making|make strategic business decisions|http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63|0.7142|0.2561|adjacent|upskilling|0.0
-K|Function-oriented assembly|2521.3|2521|database developer|2.0|2|System integration|integrate system components|http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72|0.5534|0.1435|adjacent|upskilling|0.0
-K|Function-oriented assembly|2521.3|2521|database developer|1.0|2|Technological safety, cybersecurity, and privacy|identify ICT security risks|http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf|0.5934|0.1014|adjacent|upskilling|0.0
+K|Function-oriented assembly|2521.4|2521|database integrator|2.0|2|System integration|||0.0|0.2044|absent_internal|reskilling|1.0
 K|Hybrid disassembly|2144.1.3|2144|automotive engineer|3.0|2|Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level|disassemble equipment|http://data.europa.eu/esco/skill/2562fa92-6ecf-4ba9-831e-0ce94acb8991|0.6187|0.2033|adjacent|upskilling|0.0
-K|Hybrid disassembly|2141.3|2141|homologation engineer|2.0|2|Knowledge of emergency safety routines|manage health and safety standards|http://data.europa.eu/esco/skill/44e2c4c4-9fd2-42d4-a133-d81360ded4bc|0.5904|0.1697|adjacent|upskilling|0.0
-K|Hybrid disassembly|9333.8|9333|warehouse worker|3.0|3|Spatial Awareness of the cobot|have spatial awareness|http://data.europa.eu/esco/skill/4e7b2c61-aa42-404c-995f-32281b818923|0.6331|0.06|adjacent|upskilling|0.0
+K|Hybrid disassembly|7421.8|7421|vehicle electronics installer|2.0|3|Knowledge of emergency safety routines|||0.0|0.2025|absent_internal|reskilling|1.0
 K|Hybrid disassembly|8212.3.5|8212|printed circuit board assembler|3.0|3|Which disassembled components to recycle/scrap/collect|clean components during assembly|http://data.europa.eu/esco/skill/a380a391-08fd-44a6-9f8c-39de05dd996b|0.6196|0.2195|adjacent|upskilling|0.0
-L|DPP Model|2521.5|2521|data warehouse designer|2.0|2|Interoperability and data exchange awareness|manage standards for data exchange|http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1|0.6238|0.1656|adjacent|upskilling|0.0
+L|DPP Model|2521.4|2521|database integrator|2.0|2|Interoperability and data exchange awareness|||0.0|0.2294|absent_internal|reskilling|1.0
 L|DPP Model|1321.2.2|1321|industrial quality manager|2.0|1|Problem-solving|create solutions to problems|http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041|0.5626|0.2821|adjacent|upskilling|0.0
 L|DPP Model|1321.2.1|1321|industrial production manager|2.0|1|Process optimization|manufacturing processes|http://data.europa.eu/esco/skill/3786b61f-f22e-48d1-af8d-ad4c354534db|0.5756|0.2805|adjacent|upskilling|0.0
 L|DPP Model|2521.4|2521|database integrator|1.0|2|Strategic integration|define integration strategy|http://data.europa.eu/esco/skill/a4a882a1-0263-4dd2-b29a-f0028cac2393|0.782|0.181|present|no action|-1.0
 L|DPP Model|2521.1|2521|database administrator|1.0|2|System administration, data security, operational continuity|maintain database security|http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0|0.5749|0.2459|adjacent|upskilling|0.0
 L|DPP Model|3122.4.8|3122|Optical Instrument Production Supervisor|1.0|2|sustainability compliance|ensure compliance with environmental legislation|http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d|0.785|0.191|present|no action|-1.0
 L|Function-oriented assembly|1321.2.3|1321|operations manager|3.0|1|Strategic decision-making|make strategic business decisions|http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63|0.7142|0.2561|adjacent|upskilling|0.0
-L|Function-oriented assembly|2152.1.6|2152|Microelectronics Designer|2.0|2|System integration|integrate system components|http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72|0.5534|0.1524|adjacent|upskilling|0.0
-L|Function-oriented assembly|2152.1.9|2152|Microelectronics Smart Manufacturing Engineer|1.0|2|Technological safety, cybersecurity, and privacy|cyber security|http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44|0.6225|0.1822|adjacent|upskilling|0.0
-L|Hybrid disassembly|7412.3|7412|Electrical Mechanic|2.0|3|Knowledge of emergency safety routines|apply safety management|http://data.europa.eu/esco/skill/989dc903-5838-4d84-8e04-e5b7a2ba97c5|0.5991|0.1525|adjacent|upskilling|0.0
-L|Hybrid disassembly|9333.8|9333|warehouse worker|3.0|3|Spatial Awareness of the cobot|have spatial awareness|http://data.europa.eu/esco/skill/4e7b2c61-aa42-404c-995f-32281b818923|0.6331|0.06|adjacent|upskilling|0.0
-L|Hybrid disassembly|3119.2.1|3119|robotics engineering technician|3.0|2|Which disassembled components to recycle/scrap/collect|assemble hardware components|http://data.europa.eu/esco/skill/3dc6fd8e-6ff7-432e-a262-04d487858efb|0.5994|0.1681|adjacent|upskilling|0.0
-O|DPP Model|2521.5|2521|data warehouse designer|2.0|2|Interoperability and data exchange awareness|manage standards for data exchange|http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1|0.6238|0.1656|adjacent|upskilling|0.0
+L|Function-oriented assembly|2521.4|2521|database integrator|2.0|2|System integration|||0.0|0.2044|absent_internal|reskilling|1.0
+L|Function-oriented assembly|2152.1.9|2152|Microelectronics Smart Manufacturing Engineer|1.0|2|Technological safety, cybersecurity, and privacy|cyber security|http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44|0.6225|0.1822|absent_internal|reskilling|1.0
+L|Hybrid disassembly|7412.3|7412|Electrical Mechanic|2.0|3|Knowledge of emergency safety routines|apply safety management|http://data.europa.eu/esco/skill/989dc903-5838-4d84-8e04-e5b7a2ba97c5|0.5991|0.1525|absent_internal|reskilling|1.0
+L|Hybrid disassembly|9333.3|9333|Materials Handlers|3.0|3|Which disassembled components to recycle/scrap/collect|||0.0|0.2347|absent_internal|reskilling|1.0
+O|DPP Model|2521.4|2521|database integrator|2.0|2|Interoperability and data exchange awareness|||0.0|0.2294|absent_internal|reskilling|1.0
 O|DPP Model|3119.14|3119|process engineering technician|2.0|2|Problem-solving|create solutions to problems|http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041|0.5626|0.2835|adjacent|upskilling|0.0
 O|DPP Model|3119.15|3119|product development engineering technician|2.0|2|Process optimization|manufacturing processes|http://data.europa.eu/esco/skill/3786b61f-f22e-48d1-af8d-ad4c354534db|0.5756|0.282|adjacent|upskilling|0.0
 O|DPP Model|2521.4|2521|database integrator|1.0|2|Strategic integration|define integration strategy|http://data.europa.eu/esco/skill/a4a882a1-0263-4dd2-b29a-f0028cac2393|0.782|0.181|present|no action|-1.0
 O|DPP Model|2521.1|2521|database administrator|1.0|2|System administration, data security, operational continuity|maintain database security|http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0|0.5749|0.2459|adjacent|upskilling|0.0
 O|DPP Model|3119.16|3119|quality engineering technician|1.0|2|sustainability compliance|ensure compliance with environmental legislation|http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d|0.785|0.2089|present|no action|-1.0
-O|Function-oriented assembly|1324.8|1324|Supply Chain Managers|2.0|1|Optimization and scheduling|assist in planning production scheduling|http://data.europa.eu/esco/skill/d63f83f4-648e-4adb-8e4c-b7aa7b3d76c0|0.6396|0.1951|adjacent|upskilling|0.0
+O|Function-oriented assembly|3122.3|3122|industrial assembly supervisor|2.0|2|Optimization and scheduling|||0.0|0.2278|absent_internal|reskilling|1.0
 O|Function-oriented assembly|1321.2.3|1321|operations manager|3.0|1|Strategic decision-making|make strategic business decisions|http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63|0.7142|0.2561|adjacent|upskilling|0.0
-O|Function-oriented assembly|2521.3|2521|database developer|2.0|2|System integration|integrate system components|http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72|0.5534|0.1435|adjacent|upskilling|0.0
-O|Function-oriented assembly|2521.3|2521|database developer|1.0|2|Technological safety, cybersecurity, and privacy|identify ICT security risks|http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf|0.5934|0.1014|adjacent|upskilling|0.0
-O|Hybrid disassembly|1324.3|1324|logistics and distribution manager|2.0|1|Knowledge of emergency safety routines|conduct full-scale emergency plan exercises|http://data.europa.eu/esco/skill/a7b9e3cd-cd39-4ea1-b617-3f5b651fd535|0.5934|0.166|adjacent|upskilling|0.0
-O|Hybrid disassembly|9333.8|9333|warehouse worker|3.0|3|Spatial Awareness of the cobot|have spatial awareness|http://data.europa.eu/esco/skill/4e7b2c61-aa42-404c-995f-32281b818923|0.6331|0.06|adjacent|upskilling|0.0
-O|Hybrid disassembly|8212.2|8212|electrical equipment assembler|3.0|3|Which disassembled components to recycle/scrap/collect|clean components during assembly|http://data.europa.eu/esco/skill/a380a391-08fd-44a6-9f8c-39de05dd996b|0.6196|0.1756|adjacent|upskilling|0.0
+O|Function-oriented assembly|7421.7|7421|smart home installer|2.0|3|System integration|||0.0|0.2219|absent_internal|reskilling|1.0
+O|Hybrid disassembly|1324.3|1324|logistics and distribution manager|2.0|1|Knowledge of emergency safety routines|conduct full-scale emergency plan exercises|http://data.europa.eu/esco/skill/a7b9e3cd-cd39-4ea1-b617-3f5b651fd535|0.5934|0.166|absent_internal|reskilling|1.0
+O|Hybrid disassembly|9333.3|9333|Materials Handlers|3.0|3|Which disassembled components to recycle/scrap/collect|||0.0|0.2347|absent_internal|reskilling|1.0
 A|DPP Model|1324.8|1324|Supply Chain Managers|2.0|1|simulation usage|||0.0|0.1707|absent_external|new hire|
 A|DPP Model|1324.8|1324|Supply Chain Managers|3.0|1|Organizing and maintaining the specific data subsets, DPP data workflows|||0.0|0.1752|absent_external|new hire|
 A|DPP Model|1324.8|1324|Supply Chain Managers|2.0|1|Information and Data Literacy skills|||0.0|0.2441|absent_external|new hire|
@@ -76,11 +67,13 @@ A|DPP Model|1324.8|1324|Supply Chain Managers||1|Cybersecurity Awareness|||0.0|0
 A|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Collaboration and knowledge about the cobot capabilities and parameters|||0.0|0.1545|absent_external|new hire|
 A|Hybrid disassembly|1324.8|1324|Supply Chain Managers|2.0|1|Task Programming|||0.0|0.1459|absent_external|new hire|
 A|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Observe the disassembly process and understand the sequence the first time it is carried out|||0.0|0.0884|absent_external|new hire|
+A|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Spatial Awareness of the cobot|||0.0|0.0228|absent_external|new hire|
 A|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|End effector control|||0.0|0.0623|absent_external|new hire|
 A|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level|||0.0|0.1242|absent_external|new hire|
 A|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Interaction with the inline database system to write and read component state data.|||0.0|0.0921|absent_external|new hire|
 A|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Check the progress of the plan (disassembly point)|||0.0|0.1077|absent_external|new hire|
 A|Function-oriented assembly|1324.8|1324|Supply Chain Managers|2.0|1|think out of the box|||0.0|0.0778|absent_external|new hire|
+A|Function-oriented assembly|1324.8|1324|Supply Chain Managers|1.0|1|Technological safety, cybersecurity, and privacy|||0.0|0.0915|absent_external|new hire|
 A|Function-oriented assembly|1324.8|1324|Supply Chain Managers|3.0|1|Effective human-system communication|||0.0|0.1247|absent_external|new hire|
 A|Function-oriented assembly|1324.8|1324|Supply Chain Managers|2.0|1|Evaluate and verify parameters and adjust settings|||0.0|0.1363|absent_external|new hire|
 B|DPP Model|1324.3|1324|logistics and distribution manager|2.0|1|simulation usage|||0.0|0.1623|absent_external|new hire|
@@ -94,7 +87,9 @@ B|Cold spray|1324.3|1324|logistics and distribution manager|3.0|1|Procedural pre
 B|Cold spray|1324.3|1324|logistics and distribution manager|3.0|1|Basic material science knowledge|||0.0|0.1148|absent_external|new hire|
 B|Cold spray|1324.3|1324|logistics and distribution manager|3.0|1|Cold spray parameter awareness|||0.0|0.0601|absent_external|new hire|
 B|Cold spray|1324.3|1324|logistics and distribution manager|3.0|1|Basic robotic programming|||0.0|0.1115|absent_external|new hire|
+B|Cold spray|1324.3|1324|logistics and distribution manager|2.0|1|PPE and Hazard awareness|||0.0|0.0982|absent_external|new hire|
 B|Function-oriented assembly|1324.3|1324|logistics and distribution manager|2.0|1|think out of the box|||0.0|0.1152|absent_external|new hire|
+B|Function-oriented assembly|1324.3|1324|logistics and distribution manager|1.0|1|Technological safety, cybersecurity, and privacy|||0.0|0.1143|absent_external|new hire|
 B|Function-oriented assembly|1324.3|1324|logistics and distribution manager|3.0|1|Effective human-system communication|||0.0|0.1676|absent_external|new hire|
 B|Function-oriented assembly|1324.3|1324|logistics and distribution manager|2.0|1|Evaluate and verify parameters and adjust settings|||0.0|0.1618|absent_external|new hire|
 K|DPP Model|1324.8|1324|Supply Chain Managers|2.0|1|simulation usage|||0.0|0.1707|absent_external|new hire|
@@ -105,6 +100,7 @@ K|DPP Model|1324.8|1324|Supply Chain Managers||1|Cybersecurity Awareness|||0.0|0
 K|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Collaboration and knowledge about the cobot capabilities and parameters|||0.0|0.1545|absent_external|new hire|
 K|Hybrid disassembly|1324.8|1324|Supply Chain Managers|2.0|1|Task Programming|||0.0|0.1459|absent_external|new hire|
 K|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Observe the disassembly process and understand the sequence the first time it is carried out|||0.0|0.0884|absent_external|new hire|
+K|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Spatial Awareness of the cobot|||0.0|0.0228|absent_external|new hire|
 K|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|End effector control|||0.0|0.0623|absent_external|new hire|
 K|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Interaction with the inline database system to write and read component state data.|||0.0|0.0921|absent_external|new hire|
 K|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Check the progress of the plan (disassembly point)|||0.0|0.1077|absent_external|new hire|
@@ -116,15 +112,18 @@ K|Cold spray|1324.8|1324|Supply Chain Managers|3.0|1|Cold spray parameter awaren
 K|Cold spray|1324.8|1324|Supply Chain Managers|3.0|1|Basic robotic programming|||0.0|0.092|absent_external|new hire|
 K|Cold spray|1324.8|1324|Supply Chain Managers|2.0|1|PPE and Hazard awareness|||0.0|0.059|absent_external|new hire|
 K|Function-oriented assembly|1324.8|1324|Supply Chain Managers|2.0|1|think out of the box|||0.0|0.0778|absent_external|new hire|
+K|Function-oriented assembly|1324.8|1324|Supply Chain Managers|1.0|1|Technological safety, cybersecurity, and privacy|||0.0|0.0915|absent_external|new hire|
 K|Function-oriented assembly|1324.8|1324|Supply Chain Managers|3.0|1|Effective human-system communication|||0.0|0.1247|absent_external|new hire|
 K|Function-oriented assembly|1324.8|1324|Supply Chain Managers|2.0|1|Evaluate and verify parameters and adjust settings|||0.0|0.1363|absent_external|new hire|
 L|DPP Model|1321.2.1|1321|industrial production manager|2.0|1|simulation usage|||0.0|0.2008|absent_external|new hire|
 L|DPP Model|1321.2.1|1321|industrial production manager|3.0|1|Organizing and maintaining the specific data subsets, DPP data workflows|||0.0|0.1951|absent_external|new hire|
 L|DPP Model|1321.2.1|1321|industrial production manager|2.0|1|Information and Data Literacy skills|||0.0|0.2359|absent_external|new hire|
 L|DPP Model|1321.2.1|1321|industrial production manager|2.0|1|Digital Content Creation skills|||0.0|0.2276|absent_external|new hire|
+L|DPP Model|1321.2.1|1321|industrial production manager||1|Cybersecurity Awareness|||0.0|0.0953|absent_external|new hire|
 L|Hybrid disassembly|1321.2.1|1321|industrial production manager|3.0|1|Collaboration and knowledge about the cobot capabilities and parameters|||0.0|0.2022|absent_external|new hire|
 L|Hybrid disassembly|1321.2.1|1321|industrial production manager|2.0|1|Task Programming|||0.0|0.1775|absent_external|new hire|
 L|Hybrid disassembly|1321.2.1|1321|industrial production manager|3.0|1|Observe the disassembly process and understand the sequence the first time it is carried out|||0.0|0.1714|absent_external|new hire|
+L|Hybrid disassembly|1321.2.1|1321|industrial production manager|3.0|1|Spatial Awareness of the cobot|||0.0|0.0391|absent_external|new hire|
 L|Hybrid disassembly|1321.2.1|1321|industrial production manager|3.0|1|End effector control|||0.0|0.0722|absent_external|new hire|
 L|Hybrid disassembly|1321.2.1|1321|industrial production manager|3.0|1|Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level|||0.0|0.2167|absent_external|new hire|
 L|Hybrid disassembly|1321.2.1|1321|industrial production manager|3.0|1|Interaction with the inline database system to write and read component state data.|||0.0|0.1081|absent_external|new hire|
@@ -141,10 +140,12 @@ O|DPP Model|1324.8|1324|Supply Chain Managers||1|Cybersecurity Awareness|||0.0|0
 O|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Collaboration and knowledge about the cobot capabilities and parameters|||0.0|0.1545|absent_external|new hire|
 O|Hybrid disassembly|1324.8|1324|Supply Chain Managers|2.0|1|Task Programming|||0.0|0.1459|absent_external|new hire|
 O|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Observe the disassembly process and understand the sequence the first time it is carried out|||0.0|0.0884|absent_external|new hire|
+O|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Spatial Awareness of the cobot|||0.0|0.0228|absent_external|new hire|
 O|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|End effector control|||0.0|0.0623|absent_external|new hire|
 O|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Ability to adapt/modify disassembly routines and troubleshoot in case of issues, both at the software and hardware level|||0.0|0.1242|absent_external|new hire|
 O|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Interaction with the inline database system to write and read component state data.|||0.0|0.0921|absent_external|new hire|
 O|Hybrid disassembly|1324.8|1324|Supply Chain Managers|3.0|1|Check the progress of the plan (disassembly point)|||0.0|0.1077|absent_external|new hire|
 O|Function-oriented assembly|1324.8|1324|Supply Chain Managers|2.0|1|think out of the box|||0.0|0.0778|absent_external|new hire|
+O|Function-oriented assembly|1324.8|1324|Supply Chain Managers|1.0|1|Technological safety, cybersecurity, and privacy|||0.0|0.0915|absent_external|new hire|
 O|Function-oriented assembly|1324.8|1324|Supply Chain Managers|3.0|1|Effective human-system communication|||0.0|0.1247|absent_external|new hire|
 O|Function-oriented assembly|1324.8|1324|Supply Chain Managers|2.0|1|Evaluate and verify parameters and adjust settings|||0.0|0.1363|absent_external|new hire|
